@@ -180,3 +180,7 @@
 //     }
 //     console.log(`butun son ${count} qoldiq son ${n}`);
 // }
+
+
+
+// 4#
